@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ClickGet</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>ClickGet - أهلاً وسهلاً</h1>
+    <p>منصة بيع وشراء داخل الإمارات 🇦🇪</p>
+  </header>
+
+  <main>
+    <section class="products">
+      <h2>المنتجات المعروضة:</h2>
+      <p>قريباً سيتم عرض المنتجات هنا.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ClickGet. كل الحقوق محفوظة.</p>
+  </footer>
+</body>
+</html>
